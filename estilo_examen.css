@@ -1,0 +1,40 @@
+header{
+     background-color:#eee ;
+     color: #eee;
+     padding: 30px;
+}
+nav{
+    background-color: aqua;
+    padding: 15px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+li{
+    margin: 40px;
+    display: inline;
+    text-align: justify;
+}
+p{
+    color: blue;
+}
+body{
+    background-color: chocolate;
+}
+footer{
+    background-color: blueviolet;
+    color: black;
+    padding: 15px;
+}
+footer p{
+    color: black;
+}
+h1{
+    font-size: 52px;
+}
+h2{
+    font-size: 40px;
+}
